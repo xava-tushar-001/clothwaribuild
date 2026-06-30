@@ -1,0 +1,1 @@
+import{j as t,t as e}from"./index-cf6f84f2.js";function i({expiredTime:s}){return t.jsx("div",{className:"timer",children:t.jsxs("div",{className:"time_left_txt",children:["Session Will Expire At :"," ",s?e(s).format("hh:mm A"):null]})})}export{i as default};
